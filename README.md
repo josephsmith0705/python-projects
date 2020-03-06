@@ -1,1 +1,1 @@
-# simple-gui-media-player
+# python-projects
